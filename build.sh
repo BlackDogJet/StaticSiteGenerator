@@ -1,1 +1,1 @@
-python3 src/main.py "https://github.com/BlackDogJet/build-static-site-generator-python/"
+python3 src/main.py "https://github.com/BlackDogJet/build-static-site-generator-python/docs/"
